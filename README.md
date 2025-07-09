@@ -18,7 +18,7 @@ Below, you will find the links to slides  and Google Colab notebooks for the pra
 
 ### Practical Modules with Google Colab Notebooks:
 
-- [Notebook 01 - Introduction to Notebooks and Processing Raw scRNA-seq Data](https://colab.research.google.com/drive/1h0iurkpWVqQJki2JwinFEHrrieg7Wffj):
+- [Notebook 01 - Introduction to Notebooks and processing raw scRNA-seq data](https://colab.research.google.com/drive/1h0iurkpWVqQJki2JwinFEHrrieg7Wffj):
 _This module provides an introduction to Jupyter Notebooks and Google Colaboratory, exploring their features and structure, including code cells and text cells. Additionally, this notebook introduces essential command-line operations in Linux, covering fundamental commands that are broadly applicable across programming languages with minimal adaptations. These foundational skills will support efficient data management and analysis in computational biology. Additionally, we will explore the key steps in processing raw sequencing reads into count matrices using Cell Ranger, discussing its main outputs and role in single-cell transcriptomics. Processing scRNA-seq data is a crucial step in single-cell analysis. The chosen library preparation method determines whether RNA sequences are captured from transcript ends (e.g., 10X Genomics, Drop-seq) or full-length transcripts (e.g., Smart-seq), directly influencing downstream analysis and biological insights._
 [**Lecture: Preprocessing**](https://github.com/viniciusmaracaja/HCA-LATAM_2023/blob/main/2023_10_23_HCA_LatinAmerica_preprocessing.pdf).
 
