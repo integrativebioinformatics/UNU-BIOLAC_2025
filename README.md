@@ -19,15 +19,15 @@ Below, you will find the links to slides  and Google Colab notebooks for the pra
 ### Module 01 - Introduction to Notebooks and processing raw scRNA-seq data:
 _This module provides an introduction to Jupyter Notebooks and Google Colaboratory, exploring their features and structure, including code cells and text cells. Additionally, this notebook introduces essential command-line operations in Linux and R languages, covering fundamental commands that are broadly applicable across programming languages with minimal adaptations. These foundational skills will support efficient data management and analysis in computational biology. Additionally, we will explore the key steps in processing raw sequencing reads into count matrices using Cell Ranger, discussing its main outputs and role in single-cell transcriptomics. Processing scRNA-seq data is a crucial step in single-cell analysis. The chosen library preparation method determines whether RNA sequences are captured from transcript ends (e.g., 10X Genomics, Drop-seq) or full-length transcripts (e.g., Smart-seq), directly influencing downstream analysis and biological insights._
 
-- **Slides 01:** A general overview on single cell data analysis and resources(https://docs.google.com/presentation/d/17ne2BEegrhlEmZlFSC_HcpiS8B___osI/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
-- **Slides 02** From processing raw sequences to count tables (https://docs.google.com/presentation/d/1OzVR9uag4LM4kL6M2B1z4KC8vIRGQXJH/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true)
+- **Slides 01:** [A general overview on single cell data analysis and resources](https://docs.google.com/presentation/d/17ne2BEegrhlEmZlFSC_HcpiS8B___osI/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
+- **Slides 02** [From processing raw sequences to count tables](https://docs.google.com/presentation/d/1OzVR9uag4LM4kL6M2B1z4KC8vIRGQXJH/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true)
 - **Notebook 01:** [Introduction_to_Notebooks_and_processing_raw_scRNA-seq_data_analysis](https://drive.google.com/file/d/121Mq5L0s58DqzBYCY29e-bTqTuanr739/view?usp=drivesdk).
 
 
 ### Module 02 - Data structure in single-cell data analysis:
 _In this Notebook, participants will explore the foundational aspects of how single-cell RNA sequencing (scRNA-seq) data is structured, stored, and accessed throughout an analysis pipeline. The session introduces the key data formats used in single-cell bioinformatics (e.g., MatrixMarket, HDF5, and AnnData/Seurat objects), with a focus on understanding how gene expression matrices, metadata, and dimensionality reduction results are organized._
 
-- **Notebook 02:** Data structure in single-cell data analysis(https://drive.google.com/file/d/1mujj_pOciQCRfiAQHZYyFztbJ2TD0mvP/view?usp=drivesdk).
+- **Notebook 02:** [Data structure in single-cell data analysis](https://drive.google.com/file/d/1mujj_pOciQCRfiAQHZYyFztbJ2TD0mvP/view?usp=drivesdk).
   
 
 ### Module 03 - Quality control of scRNA-seq data:
