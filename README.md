@@ -7,6 +7,7 @@ By performing each step of the scRNA-seq analysis pipeline—from raw data proce
 
 ## Bioinformatics Team
 - [Benilton S. Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en), Universidade Estadual de Campinas (UNICAMP), Brazil
+- [Mariana Boroni](https://scholar.google.com.br/citations?user=oAEL6TAAAAAJ&hl=pt-BR), Instituto Nacional do Câncer, Brazil
 - [Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana, Chile
 - [Ricardo Chinchilla-Monge](https://scholar.google.com/citations?user=BNQ9LNAAAAAJ&hl=es), Universidad de Costa Rica, Costa Rica
 - [Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
