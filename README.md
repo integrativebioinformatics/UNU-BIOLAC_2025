@@ -21,7 +21,7 @@ _This module provides an introduction to Jupyter Notebooks and Google Colaborato
 
 - **Slides 01:** [A general overview on single cell data analysis and resources](https://docs.google.com/presentation/d/17ne2BEegrhlEmZlFSC_HcpiS8B___osI/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
 - **Slides 02:** [From processing raw sequences to count tables](https://docs.google.com/presentation/d/1OzVR9uag4LM4kL6M2B1z4KC8vIRGQXJH/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
-- **Notebook 01:** [Introduction_to_Notebooks_and_processing_raw_scRNA-seq_data_analysis](https://drive.google.com/file/d/121Mq5L0s58DqzBYCY29e-bTqTuanr739/view?usp=drivesdk).
+- **Notebook 01:** [Introduction to Notebooks and processing raw scRNA-seq data](https://drive.google.com/file/d/121Mq5L0s58DqzBYCY29e-bTqTuanr739/view?usp=drivesdk).
 - **Notebook 02** [Basic introduction to R](https://drive.google.com/file/d/18YPsnmYStIoSmvEjVYhnWkb_KW9l1i76/view?usp=drivesdk).
 
 
