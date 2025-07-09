@@ -3,7 +3,7 @@
 ## Course Overview
 This course offers a comprehensive introduction to the entire workflow of a single-cell RNA sequencing (scRNA-seq) experiment, with a particular focus on cancer research. Through theoretical modules and hands-on activities, participants will gain a deeper understanding of the principles, challenges, and advantages of single-cell technologies in biomedical research.
 
-By performing each step of the scRNA-seq analysis pipeline—from raw data processing to biological interpretation—students will build practical skills and develop critical thinking around the design and application of single-cell studies. Emphasis is also placed on the use of publicly available datasets and databases as powerful resources to explore hypotheses and generate new insights in molecular cell biology and beyond.
+By performing each step of the scRNA-seq analysis pipeline, from raw data processing to biological interpretation, students will build practical skills and develop critical thinking around the design and application of single-cell studies. Emphasis is also placed on the use of publicly available datasets and databases as powerful resources to explore hypotheses and generate new insights in molecular cell biology and beyond.
 
 ## Bioinformatics Team
 - [Benilton S. Carvalho](https://scholar.google.com/citations?user=44vQTS4AAAAJ&hl=en), Universidade Estadual de Campinas (UNICAMP), Brazil
