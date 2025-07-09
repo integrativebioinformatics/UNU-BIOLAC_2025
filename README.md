@@ -22,14 +22,14 @@ _This module provides an introduction to Jupyter Notebooks and Google Colaborato
 
 - **Slides 01:** [A general overview on single cell data analysis and resources](https://docs.google.com/presentation/d/17ne2BEegrhlEmZlFSC_HcpiS8B___osI/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
 - **Slides 02:** [From processing raw sequences to count tables](https://docs.google.com/presentation/d/1OzVR9uag4LM4kL6M2B1z4KC8vIRGQXJH/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
-- **Notebook 01:** [Introduction to Notebooks and processing raw scRNA-seq data](https://drive.google.com/file/d/121Mq5L0s58DqzBYCY29e-bTqTuanr739/view?usp=drivesdk).
-- **Notebook 02:** [Basic introduction to R](https://drive.google.com/file/d/18YPsnmYStIoSmvEjVYhnWkb_KW9l1i76/view?usp=drivesdk).
+- **Notebook 01:** [Introduction to Notebooks and processing raw scRNA-seq data](https://colab.research.google.com/drive/121Mq5L0s58DqzBYCY29e-bTqTuanr739).
+- **Notebook 02:** [Basic introduction to R](https://colab.research.google.com/drive/18YPsnmYStIoSmvEjVYhnWkb_KW9l1i76).
 
 
 ### Module 02 - Data structure in single-cell data analysis:
 _In this Notebook, participants will explore the foundational aspects of how single-cell RNA sequencing (scRNA-seq) data is structured, stored, and accessed throughout an analysis pipeline. The session introduces the key data formats used in single-cell bioinformatics (e.g., MatrixMarket, HDF5, and AnnData/Seurat objects), with a focus on understanding how gene expression matrices, metadata, and dimensionality reduction results are organized._
 
-- **Notebook 03:** [Data structure in single-cell data analysis](https://drive.google.com/file/d/1mujj_pOciQCRfiAQHZYyFztbJ2TD0mvP/view?usp=drivesdk).
+- **Notebook 03:** [Data structure in single-cell data analysis](https://colab.research.google.com/drive/1mujj_pOciQCRfiAQHZYyFztbJ2TD0mvP).
   
 
 ### Module 03 - Quality control of scRNA-seq data:
