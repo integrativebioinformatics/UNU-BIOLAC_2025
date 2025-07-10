@@ -43,7 +43,7 @@ _This notebook focuses on the key aspects of quality control (QC) in scRNA-seq d
 _In this section, we will use apply normalization techniques to mitigate technical variability, and implement clustering methods to group cells based on gene expression patterns. Furthermore, we will do differential expression analysis, cell type annotation, and functional enrichment techniques to uncover gene regulation mechanisms, identify key markers, and explore pathways involved in cellular differentiation and disease states. Together, these approaches provide a comprehensive framework for interpreting single-cell transcriptomics data and extracting meaningful biological insights._
 
 - **Slides 04:** 
-- **Notebook 05:** 
+- **Notebook 05:** [From data normalization to cell-type annotation](https://colab.research.google.com/drive/1DW4svCcfd70AIJeW888LJC4g5ERcVNUG)
 
 
 ### Module 05 - Integrating single-cell transcriptomes from multiple samples:
