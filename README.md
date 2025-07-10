@@ -36,7 +36,7 @@ _In this Notebook, participants will explore the foundational aspects of how sin
 _This notebook focuses on the key aspects of quality control (QC) in scRNA-seq data using the Seurat package. Participants will learn how to assess and interpret QC metrics critical for ensuring reliable downstream analysis. Topics covered include:  (a) Detection and filtering of low-quality cells based on features such as gene counts and total UMIs; (b) Evaluation of mitochondrial gene expression as a proxy for cell stress or damage; (c) Identification of potential doublets and multiplets; (d) Exploration of ambient RNA contamination and strategies to address it; (e) Preliminary visualizations (e.g., violin plots, scatter plots) to guide QC decisions. This module serves as a foundation for understanding the quality and integrity of single-cell data prior to any normalization, clustering, or advanced analysis. Proper QC is essential for minimizing technical artifacts and maximizing biological signal in scRNA-seq experiments._
 
 - **Slides 03:** [Quality control in scRNA-seq](https://docs.google.com/presentation/d/16bkFOq6RWNSXvfdwJsP4P1Epe1hPMDLy/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
-- **Notebook 04:** [Quality control in scRNA-seq](https://colab.research.google.com/drive/1baVknYonyMAioNJibqd37bDeN-AFgRux).
+- **Notebook 04:** [Quality control in scRNA-seq](https://colab.research.google.com/drive/1lzzksyJQEUOcwEJ5NoBnNqnr1RdLTOWW).
 
 
 ### Module 04 - From data normalization to cell-type annotation:
