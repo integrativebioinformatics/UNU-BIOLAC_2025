@@ -42,14 +42,15 @@ _This notebook focuses on the key aspects of quality control (QC) in scRNA-seq d
 ### Module 04 - From data normalization to cell-type annotation:
 _In this section, we will use apply normalization techniques to mitigate technical variability, and implement clustering methods to group cells based on gene expression patterns. Furthermore, we will do differential expression analysis, cell type annotation, and functional enrichment techniques to uncover gene regulation mechanisms, identify key markers, and explore pathways involved in cellular differentiation and disease states. Together, these approaches provide a comprehensive framework for interpreting single-cell transcriptomics data and extracting meaningful biological insights._
 
-- **Slides 04:** 
-- **Notebook 05:** [From data normalization to cell-type annotation](https://colab.research.google.com/drive/1DW4svCcfd70AIJeW888LJC4g5ERcVNUG)
+- **Slides 04:** [Normalization and clustering of scRNA-seq data](https://benilton.github.io/wcs-rio/norm_clust.html).
+- **Slides 05:** [Differential Expression and Annotation](https://benilton.github.io/wcs-rio/de_annot.html).
+- **Notebook 05:** [From data normalization to cell-type annotation](https://colab.research.google.com/drive/1DW4svCcfd70AIJeW888LJC4g5ERcVNUG).
 
 
 ### Module 05 - Integrating single-cell transcriptomes from multiple samples:
 _As single-cell data complexity grows, integrating multiple datasets has become standard. However, batch effects—arising from technical and biological variations—must be corrected for accurate analysis. These effects stem from differences in sample handling, protocols, sequencing platforms, and biological factors like donor background or tissue origin. Computational methods help eliminate unwanted variation, ensuring biologically meaningful signals. Batch correction requires two key decisions: selecting the appropriate method and its parameters, and defining the batch covariate based on the integration objective. In this notebook, we explore core concepts and methods for data integration and batch correction, with hands-on activities using Seurat and Harmony. Additionally, we perform benchmarking to compare integration strategies, helping select the most effective method while preserving biological relevance._
 
-- **Slides 05:** 
+- **Slides 06:** 
 - **Notebook 06:** 
 
 
