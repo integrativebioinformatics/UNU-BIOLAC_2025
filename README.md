@@ -52,13 +52,13 @@ _In this section, we will use apply normalization techniques to mitigate technic
 _As single-cell data complexity grows, integrating multiple datasets has become standard. However, batch effects—arising from technical and biological variations—must be corrected for accurate analysis. These effects stem from differences in sample handling, protocols, sequencing platforms, and biological factors like donor background or tissue origin. Computational methods help eliminate unwanted variation, ensuring biologically meaningful signals. Batch correction requires two key decisions: selecting the appropriate method and its parameters, and defining the batch covariate based on the integration objective. In this notebook, we explore core concepts and methods for data integration and batch correction, with hands-on activities using Seurat and Harmony. Additionally, we perform benchmarking to compare integration strategies, helping select the most effective method while preserving biological relevance._
 
 - **Slides 06:** [scRNA-seq data integration](https://docs.google.com/presentation/d/1ddQ7hdIWOztGC_UNT9qHhX-S-xDJQmf6/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
-- **Notebook 06:** 
+- **Notebook 06:** [scRNA-seq data integration](https://colab.research.google.com/drive/1_V_jFYIgRkAYjDySD_jBYRsFM9nmaqBb).
 
 
 ## Module 06 - Exploring public scRNA-seq repositories:
 _In this module we cover key public databases for single-cell data and other databases for gene expression, containing information for humans and other organisms. To enhance learning, we provide hands-on exercises for accessing, exploring, and analyzing these databases, allowing users to develop essential skills in biological data manipulation._
 
-- **Notebook 07:** 
+- **Notebook 07:** [Exploring public scRNA-seq repositories](https://colab.research.google.com/drive/1dMNwVvf15EomkxbZmL0zo4wqmX7_G9vW).
 
 
 ## Authorship and Acknowledgments:
