@@ -44,6 +44,7 @@ _In this section, we will use apply normalization techniques to mitigate technic
 
 - **Slides 04:** [Normalization and clustering of scRNA-seq data](https://benilton.github.io/wcs-rio/norm_clust.html).
 - **Slides 05:** [Differential Expression and Annotation](https://benilton.github.io/wcs-rio/de_annot.html).
+- **Statistics recommended book** [here](https://www.huber.embl.de/msmb/)
 - **Notebook 05:** [From data normalization to cell-type annotation](https://colab.research.google.com/drive/1DW4svCcfd70AIJeW888LJC4g5ERcVNUG).
 
 
