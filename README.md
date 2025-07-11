@@ -51,7 +51,7 @@ _In this section, we will use apply normalization techniques to mitigate technic
 ### Module 05 - Integrating single-cell transcriptomes from multiple samples:
 _As single-cell data complexity grows, integrating multiple datasets has become standard. However, batch effects—arising from technical and biological variations—must be corrected for accurate analysis. These effects stem from differences in sample handling, protocols, sequencing platforms, and biological factors like donor background or tissue origin. Computational methods help eliminate unwanted variation, ensuring biologically meaningful signals. Batch correction requires two key decisions: selecting the appropriate method and its parameters, and defining the batch covariate based on the integration objective. In this notebook, we explore core concepts and methods for data integration and batch correction, with hands-on activities using Seurat and Harmony. Additionally, we perform benchmarking to compare integration strategies, helping select the most effective method while preserving biological relevance._
 
-- **Slides 06:** 
+- **Slides 06:** [scRNA-seq data integration](https://docs.google.com/presentation/d/1ddQ7hdIWOztGC_UNT9qHhX-S-xDJQmf6/edit?usp=drivesdk&ouid=101776043777005105119&rtpof=true&sd=true).
 - **Notebook 06:** 
 
 
